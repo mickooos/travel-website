@@ -11,9 +11,8 @@ function Footer() {
               <img src={companyLogo} alt="Company Logo" />
             </a>
             <p className="footer-text">
-              Urna ratione ante harum provident, eleifend, vulputate molestiae
-              proin fringilla, praesentium magna conubia at perferendis,
-              pretium, aenean aut ultrices.
+              Menebar Berkah, Menginspirasi Perjalanan, Menjaga Harmoni
+              Kehidupan.
             </p>
           </div>
 
