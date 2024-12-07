@@ -15,13 +15,13 @@
    * colors
    */
 
-  --united-nations-blue: hsl(214, 56%, 58%);
-  --bright-navy-blue: hsl(214, 57%, 51%);
+  --united-nations-blue: hsl(125, 56%, 29%);
+  --bright-navy-blue: hsl(133, 53%, 49%);
   --spanish-gray: hsl(0, 0%, 60%);
   --black-coral: hsl(225, 8%, 42%);
   --oxford-blue: hsl(208, 97%, 12%);
-  --yale-blue: hsl(214, 72%, 33%);
-  --blue-ncs: hsl(197, 100%, 36%);
+  --yale-blue: hsl(138, 33%, 38%);
+  --blue-ncs: hsl(155, 100%, 36%);
   --gunmetal: hsl(206, 34%, 20%);
   --gainsboro: hsl(0, 0%, 88%);
   --cultured: hsl(0, 0%, 98%);
@@ -760,7 +760,7 @@ body {
 }
 
 .submit-btn {
-  background-color: #007bff;
+  background-color: var(--bright-navy-blue);
   color: #fff;
   border: none;
   padding: 0.75rem 1.5rem;
@@ -770,7 +770,7 @@ body {
 }
 
 .submit-btn:hover {
-  background-color: #0056b3;
+  background-color: var(--yale-blue);
 }
 
 /*-----------------------------------*\
